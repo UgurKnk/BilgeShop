@@ -1,2 +1,3 @@
 # BilgeShop
-Eğitim sırasında yaptığım MVC projesi
+MVC Projesi 
+
